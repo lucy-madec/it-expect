@@ -30,5 +30,5 @@
 
 &nbsp;		3. Cliquer sur le \[Nom film/série]
 
-&nbsp;		4. Affichage de la page détail du \[Film/série]
+&nbsp;		***Résultat attendu :*** Affichage de la page détail du \[Film/série]
 
