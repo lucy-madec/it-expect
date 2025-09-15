@@ -4,7 +4,7 @@
 
 &nbsp;	- **Objectif :** Vérifier la connexion avec des identifiants valides
 
-	- **Préconditions :** L'utilisateur doit avoir un compte 
+&nbsp;	- **Préconditions :** L'utilisateur doit avoir un compte 
 
 &nbsp;	- **Etapes :** 
 
