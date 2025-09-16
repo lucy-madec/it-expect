@@ -1,36 +1,36 @@
-# **Cahier de recettes :**
+# **Cahier de recettes📒**
 
-### Connexion Utilisateur
+### Connexion Utilisateur 👤
 
-- **Objectif :** Vérifier la connexion avec des identifiants valides
+- **Objectif🎯 :** Vérifier la connexion avec des identifiants valides
 
-- **Préconditions :** L'utilisateur doit avoir un compte 
+- **Préconditions 🗒️ :** L'utilisateur doit avoir un compte 
 
-- **Etapes :** 
+- **Etapes🧮 :** 
 
-1. Aller sur la page de connexion
+    - Aller sur la page de connexion
 
-2. Entrer le mail et le mot de passe
+    - Entrer le mail et le mot de passe
 
-3. Cliquer sur "Se connecter"
+    - Cliquer sur "Se connecter"
 
-**Résultat attendu**
+**Résultat attendu☑️**
 > Arriver sur la page d'accueil avec le \[Nom utilisateur] en dessous du logo dans le header.
 
 
 
 #### Barre de recherche de films/séries
 
-- **Objectif :** Tester la fonctionnalité de recherche avec autocomplétion
+- **Objectif🎯 :** Tester la fonctionnalité de recherche avec autocomplétion
 
-- **Etapes :**
+- **Etapes🧮 :**
 
-1. Entrer \[Nom film/série]
+    - Entrer \[Nom film/série]
 
-2. Affichage de \[Nom film/série] en autocomplétion en liste déroulante
+    - Affichage de \[Nom film/série] en autocomplétion en liste déroulante
 
-3. Cliquer sur le [Nom film/série]
+    - Cliquer sur le [Nom film/série]
 
-**Résultat attendu :**
+**Résultat attendu☑️ :**
 > Affichage de la page détail du \[Film/série]
 
