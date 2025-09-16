@@ -19,7 +19,7 @@
 
 
 
-#### Barre de recherche de films/séries
+### 🔍 Barre de recherche de films/séries
 
 - **🎯 Objectif :** Tester la fonctionnalité de recherche avec autocomplétion
 
