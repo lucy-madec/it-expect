@@ -1,12 +1,12 @@
-# **Cahier de recettes📒**
+# **📒 Cahier de recettes**
 
-### Connexion Utilisateur 👤
+### 👤 Connexion Utilisateur
 
-- **Objectif🎯 :** Vérifier la connexion avec des identifiants valides
+- **🎯 Objectif :** Vérifier la connexion avec des identifiants valides
 
-- **Préconditions 🗒️ :** L'utilisateur doit avoir un compte 
+- **🗒️ Préconditions :** L'utilisateur doit avoir un compte 
 
-- **Etapes🧮 :** 
+- **🧮 Etapes :** 
 
     - Aller sur la page de connexion
 
@@ -14,16 +14,16 @@
 
     - Cliquer sur "Se connecter"
 
-**Résultat attendu☑️**
+**☑️ Résultat attendu**
 > Arriver sur la page d'accueil avec le \[Nom utilisateur] en dessous du logo dans le header.
 
 
 
 #### Barre de recherche de films/séries
 
-- **Objectif🎯 :** Tester la fonctionnalité de recherche avec autocomplétion
+- **🎯 Objectif :** Tester la fonctionnalité de recherche avec autocomplétion
 
-- **Etapes🧮 :**
+- **🧮 Etapes :**
 
     - Entrer \[Nom film/série]
 
@@ -31,6 +31,6 @@
 
     - Cliquer sur le [Nom film/série]
 
-**Résultat attendu☑️ :**
+**☑️ Résultat attendu :**
 > Affichage de la page détail du \[Film/série]
 
