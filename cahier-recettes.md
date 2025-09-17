@@ -11,7 +11,7 @@
 **Objectif** : Vérifier qu’un utilisateur enregistré peut se connecter avec des identifiants valides et accéder à la page d’accueil.  
 **Prérequis** :  
 - Un compte utilisateur existant  
-- L’utilisateur est **déconnecté**
+- L’utilisateur est **déconnecté**  
 **Données de test** :  
 - Email : `mail@example.com`  
 - Mot de passe : `Motdepasse!234`  
